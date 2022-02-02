@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+c:\users\rurit\desktop\volga\code\volga\myform.h(813): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\rurit\desktop\volga\code\volga\myform.h(814): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\rurit\desktop\volga\code\volga\myform.h(742): warning C4700: использована неинициализированная локальная переменная "minX"
+c:\users\rurit\desktop\volga\code\volga\myform.h(745): warning C4700: использована неинициализированная локальная переменная "minY"
+c:\users\rurit\desktop\volga\code\volga\myform.h(748): warning C4700: использована неинициализированная локальная переменная "minZ"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Volga.vcxproj -> C:\Users\rurit\Desktop\Volga\Code\Debug\Volga.exe
